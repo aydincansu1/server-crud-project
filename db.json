@@ -1,0 +1,18 @@
+{
+  "todos": [],
+  "users": [
+    {
+      "id": "1",
+      "title": "server Ogren"
+    },
+    {
+      "id": "2",
+      "title": "json-server Ogren"
+    },
+    {
+      "id": "3",
+      "title": "json-server Ogren"
+    }
+  ],
+  "activity": []
+}
